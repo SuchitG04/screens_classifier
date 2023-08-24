@@ -1,1 +1,1 @@
-# fastai_projects
+# A simple screens classifier
